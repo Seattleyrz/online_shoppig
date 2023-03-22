@@ -1,0 +1,15 @@
+.wrap{
+    width: 1210px;
+    margin: auto;
+}
+
+.product-intro{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.preview-wrap{
+    width: 352px;
+    height: 500px;
+}
